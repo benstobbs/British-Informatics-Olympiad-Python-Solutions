@@ -3,4 +3,4 @@ This is a public repository for Python solutions to the British Informatics Olym
 ## Aim
 The aim is to give guidance to people who are trying to find solutions to these difficult questions.
 ## Contributing
-If you have any new solutions, or more efficient solutions than the existing ones, please fork this repository, make your changes and then make a pull request. Any new solutions, or more efficient solutions will be merged!
+If you have any new solutions, or more efficient solutions than the existing ones, please make your changes and then make a pull request. Any new solutions, or more efficient solutions will be merged!
